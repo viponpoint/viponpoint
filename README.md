@@ -13,9 +13,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project |
 |-----------------------------------------------|----------------------------|
-| Installation of Windows Server 2022,           Active Directory Project
+| Installation of Windows Server 2022,          |Active Directory Project| 
   setting up Splunk on Ubuntu Server,
   Windows 10 installation and Kali Linux setup
   SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
