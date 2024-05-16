@@ -1,4 +1,92 @@
-### Hi there 👋
+Hello, I'm Dr David
+
+<a href="https://linkedin.com/in/david-olotu-a59a5ab6"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+## Introduction
+
+I am a graduate with a profound interest in technology and a dedication to solving complex problems.
+
+## Objective
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Installation of Windows Server 2022,           Active Directory Project
+  setting up Splunk on Ubuntu Server,
+  Windows 10 installation and Kali Linux setup
+  SIEM Implementation and Log Analysis          |<!-- <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| -->
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-02559B?&style=for-the-badge&logo=tcpdump&logoColor=white" />
+   
+<!--  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  -->
+</div>
+
+<!--
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+-->
+
+### SIEM
+<div>
+     <!-- <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-QRadar-0A8DD7?&style=for-the-badge&logo=QRadar&logoColor=white" />
+    <!--  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />  -->
+</div>
+
+## Degree/ Cybersecurity Courses Completion Certifications
+
+<div>
+
+<img src="https://img.shields.io/badge/-Ph.D.%20in%20Information%20Technologies%20(Hons)-003366?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Master%20in%20Informatics%20(Hons)-003366?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-B.%20Sc%20Biochemistry%20(Hons)-003366?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst%20Professional%20Certificate-003366?&style=for-the-badge&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Official%20ISC2%20CC%20Course%20Completion%20Certificate-003366?&style=for-the-badge&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Introduction%20to%20Vulnerability%20Management-003366?&style=for-the-badge&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Introduction%20to%20Threat%20Hunting-003366?&style=for-the-badge&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-IBM%20Microsoft%20Windows%20Defender%20and%20Firewall%20for%20Beginners-003366?&style=for-the-badge&logoColor=white" /> 
+
+<img src="https://img.shields.io/badge/-Analyze%20Network%20Traffic%20with%20TCPDump%2C%20Wireshark%20for%20Beginners%3A%20Capture%20Packets%2C%20and%20Wireshark%20for%20Basic%20Network%20Security%20Analysis-003366?&style=for-the-badge&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-EC--Council%3A%20Hands--on%20Network%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Mastering%20Network%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Implementing%20Secure%20Network%20Function%20Virtualization-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Introduction%20to%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Deep%20Dive%20into%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> 
+ <!-- 
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+  -->
+</div>
+
+## Projects
+- Active Directory Project
+- SOC Automation Project
+- Setting up of Home VPN: Installation and configuration of Wireguard 
+- Installation and configuration of firewall (Pfsense)
+- Setting up DNS
+- Setting up of an IDS/IPS: Configuration of Snort
+- 
+
+
 
 <!--
 **viponpoint/viponpoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
