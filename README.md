@@ -15,9 +15,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project |
 |-----------------------------------------------|----------------------------|
-| Installation of Windows Server 2022,          |Active Directory Project| 
-  setting up Splunk on Ubuntu Server,
-  Windows 10 installation and Kali Linux setup
+| Installation of Windows Server 2022,          |Active Directory Project|
+  Setting up Splunk on Ubuntu Server,           |Active Directory Project|
+  Windows 10 installation and Kali Linux setup  |Active Directory Project|
   SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| 
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
