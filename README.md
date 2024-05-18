@@ -15,10 +15,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project |
 |-----------------------------------------------|----------------------------|
-| Installation of Windows Server 2022,          |Active Directory Project|
+| Installation of Windows Server 2022,          |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
   Setting up Splunk on Ubuntu Server,           |Active Directory Project|
   Windows 10 installation and Kali Linux setup  |Active Directory Project|
-  SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+  SIEM Implementation and Log Analysis          | <a href="https://github.com/viponpoint/ActiveDirectory-Project">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| 
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -78,7 +78,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Active Directory Project
+- <a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>
 - SOC Automation Project
 - Setting up of Home VPN: Installation and configuration of Wireguard 
 - Installation and configuration of firewall (Pfsense)
