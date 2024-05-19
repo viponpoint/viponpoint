@@ -12,18 +12,23 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 
-| Skill                                         | Associated Project |
-|-----------------------------------------------|----------------------------|
-| Installation of Windows Server 2022,          |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
-  Setting up Splunk on Ubuntu Server,           |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
-  Windows 10 installation and Kali Linux setup  |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
-  SIEM Implementation and Log Analysis          | <a href="https://github.com/viponpoint/ActiveDirectory-Project">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| 
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                             | Associated Project |
+|-----------------------------------------------    |----------------------------|
+| Installation of Windows Server 2022,              |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
+  Setting up Splunk on Ubuntu Server,               |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
+  Windows 10 installation and Kali Linux setup      |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
+  SIEM Implementation and Log Analysis              | <a href="https://github.com/viponpoint/ActiveDirectory-Project">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection   | <a href="https://google.com">Detection Lab</a>| 
+| Security Automation with Shuffle SOAR             | SOC Automation Lab|
+| Incident Response Planning and Execution          | SOC Automation Lab|
+| Case Management with TheHive                      | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation   | SOC Automation Lab|
+| Learned the installation of an operating system (pfSense) |<a href="https://github.com/viponpoint/ActiveDirectory-Project">PfSense Firewall Project</a>|
+| on a virtual machine                              
+|Understand best practices for securing a network firewall, |<a href="https://github.com/viponpoint/ActiveDirectory-Project">PfSense Firewall Project</a>|
+including regular updates and patch management
 
+ 
 ## Tools
 
 ### Network
@@ -78,6 +83,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>
+- <a href="https://github.com/viponpoint/ActiveDirectory-Project">PfSense Firewall Project</a>
 - SOC Automation Project
 - Setting up of Home VPN: Installation and configuration of Wireguard 
 - Installation and configuration of firewall (Pfsense)
