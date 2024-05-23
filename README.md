@@ -80,6 +80,10 @@ firewall, including regular updates and patch management
 <a href="https://coursera.org/share/92a8a4720bff20ef652aab13a32916b8" target="_blank">
     <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-000000?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Cybersecurity Analyst Badge" />
 </a>
+<a href="https://coursera.org/share/92a8a4720bff20ef652aab13a32916b8" target="_blank">
+    <img src="https://img.shields.io/badge/-Wireshark%20for%20Beginners%3A%20Capture%20Packets-000000?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark for Beginners: Capture Packets Badge" />
+</a>
+
 
 
 
