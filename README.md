@@ -68,7 +68,10 @@ firewall, including regular updates and patch management
     <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-000000?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Cybersecurity Analyst Badge" />
 </a>
 <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst%20Professional%20Certificate-003366?&style=for-the-badge&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Official%20ISC2%20CC%20Course%20Completion%20Certificate-003366?&style=for-the-badge&logoColor=white" /> 
+<a href="https://www.credly.com/badges/e05b9061-4d1c-4969-9fd1-7ab5af411290/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-Official%20ISC2%20CC%20Course%20Completion%20Certificate-000000?style=for-the-badge&logo=ISC2&logoColor=white" alt="Official ISC2 CC Course Completion Certificate Badge" />
+</a>
+ 
 <img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Introduction%20to%20Vulnerability%20Management-003366?&style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Introduction%20to%20Threat%20Hunting-003366?&style=for-the-badge&logoColor=white" /> 
  
