@@ -65,6 +65,10 @@ firewall, including regular updates and patch management
 <img src="https://img.shields.io/badge/-Master%20in%20Informatics%20(Hons)-003366?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-B.%20Sc%20Biochemistry%20(Hons)-003366?&style=for-the-badge&logoColor=white" />
 <a href="https://coursera.org/share/ca7f86d185176f9c4b64da495471510e" target="_blank">
+    <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst%20Professional%20Certificate-000000?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Cybersecurity Analyst Professional Certificate Badge" />
+</a>
+
+<a href="https://coursera.org/share/ca7f86d185176f9c4b64da495471510e" target="_blank">
     <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-000000?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Cybersecurity Analyst Badge" />
 </a>
 <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst%20Professional%20Certificate-003366?&style=for-the-badge&logoColor=white" /> 
