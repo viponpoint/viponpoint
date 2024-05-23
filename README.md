@@ -77,6 +77,11 @@ firewall, including regular updates and patch management
     <img src="https://img.shields.io/badge/-IBM-000000?&style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Badge" />
 </a>
 
+<a href="https://coursera.org/share/ca7f86d185176f9c4b64da495471510e" target="_blank">
+    <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-000000?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Cybersecurity Analyst Badge" />
+</a>
+
+
 
  <!-- 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
