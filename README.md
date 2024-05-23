@@ -84,7 +84,6 @@ firewall, including regular updates and patch management
 </a>
 
 
-<img src="https://img.shields.io/badge/-Analyze%20Network%20Traffic%20with%20TCPDump%2C%20Wireshark%20for%20Beginners%3A%20Capture%20Packets%2C%20and%20Wireshark%20for%20Basic%20Network%20Security%20Analysis-003366?&style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-EC--Council%3A%20Hands--on%20Network%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Mastering%20Network%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Implementing%20Secure%20Network%20Function%20Virtualization-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Introduction%20to%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Deep%20Dive%20into%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> 
 
 
