@@ -72,6 +72,7 @@ firewall, including regular updates and patch management
 
 <img src="https://img.shields.io/badge/-Analyze%20Network%20Traffic%20with%20TCPDump%2C%20Wireshark%20for%20Beginners%3A%20Capture%20Packets%2C%20and%20Wireshark%20for%20Basic%20Network%20Security%20Analysis-003366?&style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-EC--Council%3A%20Hands--on%20Network%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Mastering%20Network%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Implementing%20Secure%20Network%20Function%20Virtualization-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Introduction%20to%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Deep%20Dive%20into%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> 
+https://coursera.org/share/ca7f86d185176f9c4b64da495471510e
  <!-- 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
