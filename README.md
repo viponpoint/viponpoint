@@ -71,7 +71,7 @@ firewall, including regular updates and patch management
 <img src="https://img.shields.io/badge/-Official%20ISC2%20CC%20Course%20Completion%20Certificate-003366?&style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Introduction%20to%20Vulnerability%20Management-003366?&style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Introduction%20to%20Threat%20Hunting-003366?&style=for-the-badge&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-IBM%20Microsoft%20Windows%20Defender%20and%20Firewall%20for%20Beginners-003366?&style=for-the-badge&logoColor=white" /> 
+ 
 <a href="https://coursera.org/share/04febede3cfef55a3d786365f9349070" target="_blank">
     <img src="https://img.shields.io/badge/-Microsoft%20Windows%20Defender%20and%20Firewall%20for%20Beginners-000000?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Windows Defender and Firewall for Beginners Badge" />
 </a>
