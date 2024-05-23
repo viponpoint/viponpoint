@@ -79,6 +79,10 @@ firewall, including regular updates and patch management
 <a href="https://coursera.org/share/92a8a4720bff20ef652aab13a32916b8" target="_blank">
     <img src="https://img.shields.io/badge/-Wireshark%20for%20Beginners%3A%20Capture%20Packets-000000?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark for Beginners: Capture Packets Badge" />
 </a>
+<a href="https://coursera.org/share/a642217da4299eb3e85c252749391000" target="_blank">
+    <img src="https://img.shields.io/badge/-Wireshark%20for%20Basic%20Network%20Security%20Analysis-000000?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark for Basic Network Security Analysis Badge" />
+</a>
+
 
 <img src="https://img.shields.io/badge/-Analyze%20Network%20Traffic%20with%20TCPDump%2C%20Wireshark%20for%20Beginners%3A%20Capture%20Packets%2C%20and%20Wireshark%20for%20Basic%20Network%20Security%20Analysis-003366?&style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-EC--Council%3A%20Hands--on%20Network%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Mastering%20Network%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Implementing%20Secure%20Network%20Function%20Virtualization-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Introduction%20to%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Deep%20Dive%20into%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> 
