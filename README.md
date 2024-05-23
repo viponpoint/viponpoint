@@ -64,6 +64,9 @@ firewall, including regular updates and patch management
 <img src="https://img.shields.io/badge/-Ph.D.%20in%20Information%20Technologies%20(Hons)-003366?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Master%20in%20Informatics%20(Hons)-003366?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-B.%20Sc%20Biochemistry%20(Hons)-003366?&style=for-the-badge&logoColor=white" />
+<a href="https://coursera.org/share/ca7f86d185176f9c4b64da495471510e" target="_blank">
+    <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-000000?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Cybersecurity Analyst Badge" />
+</a>
 <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst%20Professional%20Certificate-003366?&style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Official%20ISC2%20CC%20Course%20Completion%20Certificate-003366?&style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Introduction%20to%20Vulnerability%20Management-003366?&style=for-the-badge&logoColor=white" /> 
@@ -73,13 +76,7 @@ firewall, including regular updates and patch management
 <img src="https://img.shields.io/badge/-Analyze%20Network%20Traffic%20with%20TCPDump%2C%20Wireshark%20for%20Beginners%3A%20Capture%20Packets%2C%20and%20Wireshark%20for%20Basic%20Network%20Security%20Analysis-003366?&style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-EC--Council%3A%20Hands--on%20Network%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Mastering%20Network%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Implementing%20Secure%20Network%20Function%20Virtualization-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Introduction%20to%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Deep%20Dive%20into%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> 
 
-<a href="https://coursera.org/share/ca7f86d185176f9c4b64da495471510e" target="_blank">
-    <img src="https://img.shields.io/badge/-IBM-000000?&style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Badge" />
-</a>
 
-<a href="https://coursera.org/share/ca7f86d185176f9c4b64da495471510e" target="_blank">
-    <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-000000?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Cybersecurity Analyst Badge" />
-</a>
 
 
 
