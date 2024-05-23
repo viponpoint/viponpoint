@@ -72,17 +72,16 @@ firewall, including regular updates and patch management
 <img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Introduction%20to%20Vulnerability%20Management-003366?&style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Introduction%20to%20Threat%20Hunting-003366?&style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-IBM%20Microsoft%20Windows%20Defender%20and%20Firewall%20for%20Beginners-003366?&style=for-the-badge&logoColor=white" /> 
+<a href="https://coursera.org/share/92a8a4720bff20ef652aab13a32916b8" target="_blank">
+    <img src="https://img.shields.io/badge/-Wireshark%20for%20Beginners%3A%20Capture%20Packets-000000?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark for Beginners: Capture Packets Badge" />
+</a>
 
 <img src="https://img.shields.io/badge/-Analyze%20Network%20Traffic%20with%20TCPDump%2C%20Wireshark%20for%20Beginners%3A%20Capture%20Packets%2C%20and%20Wireshark%20for%20Basic%20Network%20Security%20Analysis-003366?&style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-EC--Council%3A%20Hands--on%20Network%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Mastering%20Network%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Implementing%20Secure%20Network%20Function%20Virtualization-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Introduction%20to%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Deep%20Dive%20into%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> 
 
 
-href="https://coursera.org/share/92a8a4720bff20ef652aab13a32916b8" target="_blank">
-    <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-000000?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Cybersecurity Analyst Badge" />
 
-<a href="https://coursera.org/share/92a8a4720bff20ef652aab13a32916b8" target="_blank">
-    <img src="https://img.shields.io/badge/-Wireshark%20for%20Beginners%3A%20Capture%20Packets-000000?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark for Beginners: Capture Packets Badge" />
-</a>
+
 
 
 
