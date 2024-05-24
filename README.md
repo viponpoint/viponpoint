@@ -94,6 +94,10 @@ firewall, including regular updates and patch management
     <img src="https://img.shields.io/badge/-Wireshark%20for%20Basic%20Network%20Security%20Analysis-000000?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark for Basic Network Security Analysis Badge" />
 </a>
 
+<a href="https://codered.eccouncil.org/certificate/de125383-1056-4654-81ac-4af0950627e5?logged=true" target="_blank">
+    <img src="https://img.shields.io/badge/-EC--Council%3A%20Hands--on%20Network%20Security-000000?style=for-the-badge&logoColor=white" alt="EC-Council: Hands-on Network Security Badge" />
+</a>
+
 <a href="https://codered.eccouncil.org/certificate/1d7bdd16-16ae-46cb-8a91-fa4b9bc76b53?logged=true" target="_blank">
     <img src="https://img.shields.io/badge/-EC--Council%3A%20Mastering%20Network%20Security-000000?style=for-the-badge&logoColor=white" alt="EC-Council: Mastering Network Security Badge" />
 </a>
