@@ -19,10 +19,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
   Windows 10 installation and Kali Linux setup      |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
   SIEM Implementation and Log Analysis              | <a href="https://github.com/viponpoint/ActiveDirectory-Project">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection   | <a href="https://google.com">Detection Lab</a>| 
-| Security Automation with Shuffle SOAR             | SOC Automation Lab|
-| Incident Response Planning and Execution          | SOC Automation Lab|
-| Case Management with TheHive                      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation   | SOC Automation Lab|
+| Security Automation with Shuffle SOAR             | SOC Automation Project|
+| Incident Response Planning and Execution          | SOC Automation Project|
+| Case Management with TheHive                      | SOC Automation Project|
+| Scripting and Automation for Threat Mitigation   | SOC Automation Project|
 | Learned the installation of an operating system |<a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>|
 | (pfSense) on a virtual machine                              
 |Understand best practices for securing a network |<a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>|
