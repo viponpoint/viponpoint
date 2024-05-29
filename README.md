@@ -20,9 +20,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
   SIEM Implementation and Log Analysis              | <a href="https://github.com/viponpoint/ActiveDirectory-Project">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection   | <a href="https://google.com">Detection Lab</a>| 
 | Security Automation with Shuffle SOAR             | <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>|
-| Incident Response Planning and Execution          | SOC Automation Project|
-| Case Management with TheHive                      | SOC Automation Project|
-| Scripting and Automation for Threat Mitigation   | SOC Automation Project|
+| Incident Response Planning and Execution          | <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>|
+| Case Management with TheHive                      | <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>|
+| Scripting and Automation for Threat Mitigation   | <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>|
 | Learned the installation of an operating system |<a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>|
 | (pfSense) on a virtual machine                              
 |Understand best practices for securing a network |<a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>|
@@ -117,9 +117,9 @@ firewall, including regular updates and patch management
 </div>
 
 ## Projects
+-  <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>
 - <a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>
 - <a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>
-- SOC Automation Project
 - Setting up of Home VPN: Installation and configuration of Wireguard 
 - Installation and configuration of firewall (Pfsense)
 - Setting up DNS
