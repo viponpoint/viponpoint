@@ -112,12 +112,7 @@ firewall, including regular updates and patch management
 <a href="https://codered.eccouncil.org/certificate/d8cda7b0-97ab-4eef-8562-69538187d719?logged=true" target="_blank">
     <img src="https://img.shields.io/badge/-EC--Council%3A%20Deep%20Dive%20into%20Wireless%20Security-000000?style=for-the-badge&logoColor=white" alt="EC-Council: Deep Dive into Wireless Security Badge" />
 </a>
-
-
-  <img src="https://img.shields.io/badge/-EC--Council%3A%20Implementing%20Secure%20Network%20Function%20Virtualization-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Introduction%20to%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Deep%20Dive%20into%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> 
-
-
-
+ 
 
  <!-- 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
