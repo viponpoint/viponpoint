@@ -102,6 +102,10 @@ firewall, including regular updates and patch management
 <a href="https://codered.eccouncil.org/certificate/1d7bdd16-16ae-46cb-8a91-fa4b9bc76b53?logged=true" target="_blank">
     <img src="https://img.shields.io/badge/-EC--Council%3A%20Mastering%20Network%20Security-000000?style=for-the-badge&logoColor=white" alt="EC-Council: Mastering Network Security Badge" />
 </a>
+<a href="https://codered.eccouncil.org/certificate/3a3f200a-44b1-4182-b073-ff7dddbf5b79?logged=true" target="_blank">
+    <img src="https://img.shields.io/badge/-EC--Council%3A%20Mastering%20Network%20Security-000000?style=for-the-badge&logoColor=white" alt="EC-Council: Mastering Network Security Badge" />
+</a>
+
   <img src="https://img.shields.io/badge/-EC--Council%3A%20Implementing%20Secure%20Network%20Function%20Virtualization-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Introduction%20to%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Deep%20Dive%20into%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> 
 
 
