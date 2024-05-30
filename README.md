@@ -76,7 +76,20 @@ firewall, including regular updates and patch management
 <a href="https://www.credly.com/badges/e05b9061-4d1c-4969-9fd1-7ab5af411290/public_url" target="_blank">
     <img src="https://img.shields.io/badge/-Official%20ISC2%20CC%20Course%20Completion%20Certificate-000000?style=for-the-badge&logo=ISC2&logoColor=white" alt="Official ISC2 CC Course Completion Certificate Badge" />
 </a>
- 
+
+<a href="https://elearning.securityblue.team/home/certificate/382889149" target="_blank">
+    <img src="https://img.shields.io/badge/-Security%20Blue%20Team%3A%20Introduction%20to%20Vulnerability%20Management-000000?style=for-the-badge&logoColor=white" alt="Security Blue Team: Introduction to Vulnerability Management Badge" />
+</a>
+
+<a href="https://elearning.securityblue.team/home/certificate/211339450" target="_blank">
+    <img src="https://img.shields.io/badge/-Security%20Blue%20Team%3A%20Introduction%20to%20Threat%20Hunting-000000?style=for-the-badge&logoColor=white" alt="Security Blue Team: Introduction to Threat Hunting Badge" />
+</a>
+
+<a href="https://elearning.securityblue.team/home/certificate/835010998" target="_blank">
+    <img src="https://img.shields.io/badge/-Security%20Blue%20Team%3A%20Introduction%20to%20Network%20Analysis-000000?style=for-the-badge&logoColor=white" alt="Security Blue Team: Introduction to Network Analysis Badge" />
+</a>
+
+
 <img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Introduction%20to%20Vulnerability%20Management-003366?&style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Introduction%20to%20Threat%20Hunting-003366?&style=for-the-badge&logoColor=white" /> 
  
