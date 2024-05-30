@@ -78,7 +78,7 @@ firewall, including regular updates and patch management
 </a>
 
 
-<img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Introduction%20to%20Vulnerability%20Management-003366?&style=for-the-badge&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Security%20Blue%20Team:%20Introduction%20to%20Vulnerability%20Management-003366?&style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Introduction%20to%20Threat%20Hunting-003366?&style=for-the-badge&logoColor=white" /> 
  
 <a href="https://coursera.org/share/04febede3cfef55a3d786365f9349070" target="_blank">
