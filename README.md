@@ -58,6 +58,13 @@ firewall, including regular updates and patch management
     <!--  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />  -->
 </div>
 
+### SOAR
+<div>
+     <!-- <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> -->
+      <img src="https://img.shields.io/badge/-Shuffle-000000?&style=for-the-badge&logo=Shuffle&logoColor=white" />  
+</div>
+
+
 ## University Degree/ Cybersecurity Courses Completion Certifications
 
 <div>
