@@ -103,8 +103,16 @@ firewall, including regular updates and patch management
     <img src="https://img.shields.io/badge/-EC--Council%3A%20Mastering%20Network%20Security-000000?style=for-the-badge&logoColor=white" alt="EC-Council: Mastering Network Security Badge" />
 </a>
 <a href="https://codered.eccouncil.org/certificate/3a3f200a-44b1-4182-b073-ff7dddbf5b79?logged=true" target="_blank">
-    <img src="https://img.shields.io/badge/-EC--Council%3A%20Mastering%20Network%20Security-000000?style=for-the-badge&logoColor=white" alt="EC-Council: Mastering Network Security Badge" />
+    <img src="https://img.shields.io/badge/-EC--Council%3A%20Implementing%20Secure%20Network%20Function%20Virtualization-000000?style=for-the-badge&logoColor=white" alt="EC-Council: Implementing Secure Network Function Virtualization Badge" />
 </a>
+
+<a href="https://codered.eccouncil.org/certificate/210dad83-7449-4cb1-9fb8-63327b4d5ad7?logged=true" target="_blank">
+    <img src="https://img.shields.io/badge/-EC--Council%3A%20Introduction%20to%20Wireless%20Security-000000?style=for-the-badge&logoColor=white" alt="EC-Council: Introduction to Wireless Security Badge" />
+</a>
+<a href="https://codered.eccouncil.org/certificate/d8cda7b0-97ab-4eef-8562-69538187d719?logged=true" target="_blank">
+    <img src="https://img.shields.io/badge/-EC--Council%3A%20Deep%20Dive%20into%20Wireless%20Security-000000?style=for-the-badge&logoColor=white" alt="EC-Council: Deep Dive into Wireless Security Badge" />
+</a>
+
 
   <img src="https://img.shields.io/badge/-EC--Council%3A%20Implementing%20Secure%20Network%20Function%20Virtualization-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Introduction%20to%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-EC--Council%3A%20Deep%20Dive%20into%20Wireless%20Security-003366?&style=for-the-badge&logoColor=white" /> 
 
