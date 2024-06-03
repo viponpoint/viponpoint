@@ -82,19 +82,10 @@ SIEM Implementation and Log Analysis              | <a href="https://github.com/
 <a href="https://coursera.org/share/ca7f86d185176f9c4b64da495471510e" target="_blank">
     <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst%20Professional%20Certificate-000000?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Cybersecurity Analyst Professional Certificate Badge" />
 </a>
-
-<a href="https://coursera.org/share/ca7f86d185176f9c4b64da495471510e" target="_blank">
-    <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-000000?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Cybersecurity Analyst Badge" />
-</a>
  
 <a href="https://www.credly.com/badges/e05b9061-4d1c-4969-9fd1-7ab5af411290/public_url" target="_blank">
     <img src="https://img.shields.io/badge/-Official%20ISC2%20CC%20Course%20Completion%20Certificate-000000?style=for-the-badge&logo=ISC2&logoColor=white" alt="Official ISC2 CC Course Completion Certificate Badge" />
 </a>
-
-
-<img src="https://img.shields.io/badge/-Security%20Blue%20Team:%20Introduction%20to%20Vulnerability%20Management-003366?&style=for-the-badge&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Security%20Blue%20Team:%20Introduction%20to%20Threat%20Hunting-003366?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%20Blue%20Team:%20Introduction%20to%20Network%20Analysis-003366?&style=for-the-badge&logoColor=white" />
  
 <a href="https://coursera.org/share/04febede3cfef55a3d786365f9349070" target="_blank">
     <img src="https://img.shields.io/badge/-Microsoft%20Windows%20Defender%20and%20Firewall%20for%20Beginners-000000?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Windows Defender and Firewall for Beginners Badge" />
@@ -129,6 +120,9 @@ SIEM Implementation and Log Analysis              | <a href="https://github.com/
     <img src="https://img.shields.io/badge/-EC--Council%3A%20Deep%20Dive%20into%20Wireless%20Security-000000?style=for-the-badge&logoColor=white" alt="EC-Council: Deep Dive into Wireless Security Badge" />
 </a>
  
+<img src="https://img.shields.io/badge/-Security%20Blue%20Team:%20Introduction%20to%20Vulnerability%20Management-003366?&style=for-the-badge&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Security%20Blue%20Team:%20Introduction%20to%20Threat%20Hunting-003366?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%20Blue%20Team:%20Introduction%20to%20Network%20Analysis-003366?&style=for-the-badge&logoColor=white" />
 
  <!-- 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
