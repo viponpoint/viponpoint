@@ -64,7 +64,7 @@ SIEM Implementation and Log Analysis              | <a href="https://github.com/
 </div>
 
 
-## University Degrees/ Cybersecurity Courses Completion Certifications
+## University Degrees
 
 <div>
 
@@ -76,6 +76,9 @@ SIEM Implementation and Log Analysis              | <a href="https://github.com/
 <img src="https://img.shields.io/badge/-Ph.D.%20in%20Information%20Technologies%20(Hons)-003366?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/M.%20Sc%20in%20Informatics%20(Hons)-003366?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-B.%20Sc%20Biochemistry%20(Hons)-003366?&style=for-the-badge&logoColor=white" />
+
+## Professional Development
+
 <a href="https://coursera.org/share/ca7f86d185176f9c4b64da495471510e" target="_blank">
     <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst%20Professional%20Certificate-000000?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM Cybersecurity Analyst Professional Certificate Badge" />
 </a>
