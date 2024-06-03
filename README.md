@@ -78,6 +78,8 @@ SIEM Implementation and Log Analysis              | <a href="https://github.com/
 <a href="https://snu.edu.ua/en" target="_blank">
     <img src="https://img.shields.io/badge/M.%20Sc%20in%20Informatics%20(Hons)%20from%20Volodymyr%20Dahl%20East%20Ukrainian%20National%20University%20(2010%20-%202012)-003366?&style=for-the-badge&logoColor=white" alt="M. Sc in Informatics (Hons) from Volodymyr Dahl East Ukrainian National University (2010 - 2012) Badge" />
 </a>
+<img src="https://img.shields.io/badge/M.%20Sc%20in%20Informatics%20(Hons)%20from%20Volodymyr%20Dahl%20East%20Ukrainian%20National%20University%20(2010%20-%202012)-003366?&style=for-the-badge&logoColor=white" alt="M. Sc in Informatics (Hons) from Volodymyr Dahl East Ukrainian National University (2010 - 2012) Badge" />
+
 
 <img src="https://img.shields.io/badge/M.%20Sc%20in%20Informatics%20(Hons)-003366?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-B.%20Sc%20Biochemistry%20(Hons)-003366?&style=for-the-badge&logoColor=white" />
