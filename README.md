@@ -68,6 +68,7 @@ SIEM Implementation and Log Analysis              | <a href="https://github.com/
 
 <div>
 
+<img src="https://img.shields.io/badge/Ph.D.%20in%20Information%20Technologies%20(Hons)%20from%20V.%20N.%20Karazin%20Kharkiv%20National%20University%20(2014%20-%202017)-003366?&style=for-the-badge&logoColor=white" alt="Ph.D. in Information Technologies (Hons) from V. N. Karazin Kharkiv National University (2014 - 2017) Badge" />
 
 <a href="https://www.univer.kharkov.ua/en" target="_blank">
     <img src="https://img.shields.io/badge/-Ph.D.%20in%20Information%20Technologies%20(Hons)%20from%20V.%20N.%20Karazin%20Kharkiv%20National%20University-003366?&style=for-the-badge&logoColor=white" alt="Ph.D. in Information Technologies (Hons) from V. N. Karazin Kharkiv National University (2014 - 2017) Badge Badge" />
