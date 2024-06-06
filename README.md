@@ -21,8 +21,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution          | <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>|
 | Case Management with TheHive                      | <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>|
 | Scripting and Automation for Threat Mitigation   | <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>|
-| Learned the installation of an operating system |<a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>|
-| (pfSense) on a virtual machine                              
+| Installation and configuration of firewall (Pfsense) |<a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>|
 |Understand best practices for securing a network |<a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>|
 firewall, including regular updates and patch management
 SIEM Implementation and Log Analysis              | <a href="https://github.com/viponpoint/ActiveDirectory-Project">Detection Lab</a>|
