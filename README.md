@@ -27,6 +27,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 firewall, including regular updates and patch management
 SIEM Implementation and Log Analysis              | <a href="https://github.com/viponpoint/ActiveDirectory-Project">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection   | <a href="https://google.com">Detection Lab</a>|
+| Honeypot Deployment and Configuration   | <a href="https://github.com/viponpoint/Honeypot-Deployment-and-Monitoring-Project">Honeypot Deployment and Monitoring Project</a>|
+| Honeypot Deployment and Configuration   | <a href="https://github.com/viponpoint/Honeypot-Deployment-and-Monitoring-Project">Honeypot Deployment and Monitoring Project</a>|
+
+
  
 ## Tools
 
@@ -138,12 +142,13 @@ SIEM Implementation and Log Analysis              | <a href="https://github.com/
 
 ## Projects
 -  <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>
-- <a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>
-- <a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>
-- Setting up of Home VPN: Installation and configuration of Wireguard 
-- Installation and configuration of firewall (Pfsense)
-- Setting up DNS
-- Setting up of an IDS/IPS: Configuration of Snort
+-  <a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>
+-  <a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>
+-  <a href="https://github.com/viponpoint/Honeypot-Deployment-and-Monitoring-Project">Honeypot Deployment and Monitoring Project</a>
+-  Setting up of Home VPN: Installation and configuration of Wireguard 
+-  Installation and configuration of firewall (Pfsense)
+-  Setting up DNS
+-  Setting up of an IDS/IPS: Configuration of Snort
 - 
 
 
