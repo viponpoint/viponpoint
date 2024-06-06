@@ -28,7 +28,7 @@ firewall, including regular updates and patch management
 SIEM Implementation and Log Analysis              | <a href="https://github.com/viponpoint/ActiveDirectory-Project">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection   | <a href="https://google.com">Detection Lab</a>|
 | Honeypot Deployment and Configuration   | <a href="https://github.com/viponpoint/Honeypot-Deployment-and-Monitoring-Project">Honeypot Deployment and Monitoring Project</a>|
-| Honeypot Deployment and Configuration   | <a href="https://github.com/viponpoint/Honeypot-Deployment-and-Monitoring-Project">Honeypot Deployment and Monitoring Project</a>|
+| Data Visualization and Analysis   | <a href="https://github.com/viponpoint/Honeypot-Deployment-and-Monitoring-Project">Honeypot Deployment and Monitoring Project</a>|
 
 
  
