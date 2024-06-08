@@ -28,6 +28,8 @@ SIEM Implementation and Log Analysis              | <a href="https://github.com/
 | Network Traffic Monitoring and Attack Detection   | <a href="https://google.com">Detection Lab</a>|
 | Honeypot Deployment and Configuration   | <a href="https://github.com/viponpoint/Honeypot-Deployment-and-Monitoring-Project">Honeypot Deployment and Monitoring Project</a>|
 | Data Visualization and Analysis   | <a href="https://github.com/viponpoint/Honeypot-Deployment-and-Monitoring-Project">Honeypot Deployment and Monitoring Project</a>|
+| Identification of common vulnerabilities in systems and networks | <a href="https://github.com/viponpoint/Vulnerability-Management-Project">Vulnerability Management Project</a>|
+| Enhances skills in identifying and mitigating security vulnerabilities | <a href="https://github.com/viponpoint/Vulnerability-Management-Project">Vulnerability Management Project</a>|
 
 
  
