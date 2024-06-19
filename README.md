@@ -95,10 +95,11 @@ SIEM Implementation and Log Analysis              | <a href="https://github.com/
     <img src="https://img.shields.io/badge/-Official%20ISC2%20CC%20Course%20Completion%20Certificate-000000?style=for-the-badge&logo=ISC2&logoColor=white" alt="Official ISC2 CC Course Completion Certificate Badge" />
 </a>
 
+<!-- 
 <a href="https://learn.isc2.org/d2l/awards/9541/#/myAwards" target="_blank">
     <img src="https://img.shields.io/badge/-Official%20ISC2%20CC%20Course%20Completion%20Certificate-000000?style=for-the-badge&logo=ISC2&logoColor=white" alt="Official ISC2 CC Course Completion Certificate Badge" />
 </a>
-
+-->
  
 <a href="https://coursera.org/share/04febede3cfef55a3d786365f9349070" target="_blank">
     <img src="https://img.shields.io/badge/-Microsoft%20Windows%20Defender%20and%20Firewall%20for%20Beginners-000000?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Windows Defender and Firewall for Beginners Badge" />
