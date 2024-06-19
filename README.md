@@ -14,13 +14,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                               | Associated Project |
 |-----------------------------------------------      |----------------------------|
-| Installation of Windows Server 2022,               |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
-  Setting up Splunk on Ubuntu Server,           |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
-  Windows 10 installation and Kali Linux setup      |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>| 
 | Security Automation with Shuffle SOAR             | <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>|
 | Incident Response Planning and Execution          | <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>|
 | Case Management with TheHive                      | <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>|
 | Scripting and Automation for Threat Mitigation   | <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>|
+| Installation of Windows Server 2022,               |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
+  Setting up Splunk on Ubuntu Server,           |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
+  Windows 10 installation and Kali Linux setup      |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>| 
 | Installation and configuration of firewall (Pfsense) |<a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>|
 |Understand best practices for securing a network |<a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>|
 firewall, including regular updates and patch management
