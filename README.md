@@ -20,16 +20,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation   | <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>|
 | Installation of Windows Server 2022,               |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
   Setting up Splunk on Ubuntu Server,           |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
-  Windows 10 installation and Kali Linux setup      |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>| 
+  Windows 10 installation and Kali Linux setup      |<a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>|
+  | Honeypot Deployment and Configuration   | <a href="https://github.com/viponpoint/Honeypot-Deployment-and-Monitoring-Project">Honeypot Deployment and Monitoring Project</a>|
+| Data Visualization and Analysis   | <a href="https://github.com/viponpoint/Honeypot-Deployment-and-Monitoring-Project">Honeypot Deployment and Monitoring Project</a>|
+| Identification of common vulnerabilities in systems and networks | <a href="https://github.com/viponpoint/Vulnerability-Management-Project">Vulnerability Management Project</a>|
+| Enhances skills in identifying and mitigating security vulnerabilities | <a href="https://github.com/viponpoint/Vulnerability-Management-Project">Vulnerability Management Project</a>|
 | Installation and configuration of firewall (Pfsense) |<a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>|
 |Understand best practices for securing a network |<a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>|
 firewall, including regular updates and patch management
 SIEM Implementation and Log Analysis              | <a href="https://github.com/viponpoint/ActiveDirectory-Project">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection   | <a href="https://google.com">Detection Lab</a>|
-| Honeypot Deployment and Configuration   | <a href="https://github.com/viponpoint/Honeypot-Deployment-and-Monitoring-Project">Honeypot Deployment and Monitoring Project</a>|
-| Data Visualization and Analysis   | <a href="https://github.com/viponpoint/Honeypot-Deployment-and-Monitoring-Project">Honeypot Deployment and Monitoring Project</a>|
-| Identification of common vulnerabilities in systems and networks | <a href="https://github.com/viponpoint/Vulnerability-Management-Project">Vulnerability Management Project</a>|
-| Enhances skills in identifying and mitigating security vulnerabilities | <a href="https://github.com/viponpoint/Vulnerability-Management-Project">Vulnerability Management Project</a>|
 
 
  
