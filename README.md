@@ -150,9 +150,9 @@ SIEM Implementation and Log Analysis              | <a href="https://github.com/
 ## Projects
 -  <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>
 -  <a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>
--  <a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>
 -  <a href="https://github.com/viponpoint/Honeypot-Deployment-and-Monitoring-Project">Honeypot Deployment and Monitoring Project</a>
 -  <a href="https://github.com/viponpoint/Vulnerability-Management-Project">Vulnerability Management Project</a>
+-  <a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>
 -  Setting up of Home VPN: Installation and configuration of Wireguard 
 -  Installation and configuration of firewall (Pfsense)
 -  Setting up DNS
