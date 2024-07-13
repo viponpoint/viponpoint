@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                               | Associated Project |
 |-----------------------------------------------      |----------------------------|
-| SOAR and EDR with Tines and LimaCharlie             | <a href="https://github.com/viponpoint/SOAR-EDR-Project">SOAR EDR Project</a>|
+| Configuring and using EDR tools for malware detection | <a href="https://github.com/viponpoint/SOAR-EDR-Project">SOAR EDR Project</a>|
 | SOAR and EDR with Tines and LimaCharlie             | <a href="https://github.com/viponpoint/SOAR-EDR-Project">SOAR EDR Project</a>|
 | Security Automation with Shuffle SOAR             | <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>|
 | Incident Response Planning and Execution          | <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>|
