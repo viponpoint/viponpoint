@@ -157,7 +157,6 @@ SIEM Implementation and Log Analysis              | <a href="https://github.com/
 -  <a href="https://github.com/viponpoint/Vulnerability-Management-Project">Vulnerability Management Project</a>
 -  <a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>
 -  Setting up of Home VPN: Installation and configuration of Wireguard 
--  Installation and configuration of firewall (Pfsense)
 -  Setting up DNS
 -  Setting up of an IDS/IPS: Configuration of Snort
 - 
