@@ -150,6 +150,7 @@ SIEM Implementation and Log Analysis              | <a href="https://github.com/
 </div>
 
 ## Projects
+-  <a href="https://github.com/viponpoint/SOAR-EDR-Project">SOAR EDR Project</a>
 -  <a href="https://github.com/viponpoint/SOC-Automation-Project">SOC Automation Project</a>
 -  <a href="https://github.com/viponpoint/ActiveDirectory-Project">Active Directory Project</a>
 -  <a href="https://github.com/viponpoint/Honeypot-Deployment-and-Monitoring-Project">Honeypot Deployment and Monitoring Project</a>
