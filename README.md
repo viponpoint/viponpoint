@@ -30,8 +30,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Installation and configuration of firewall (Pfsense) |<a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>|
 |Understand best practices for securing a network |<a href="https://github.com/viponpoint/Pfsense-Firewall-Project">PfSense Firewall Project</a>|
 firewall, including regular updates and patch management
-SIEM Implementation and Log Analysis              | <a href="https://github.com/viponpoint/ActiveDirectory-Project">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection   | <a href="https://google.com">Detection Lab</a>|
+SIEM Implementation and Log Analysis              | <a href="https://github.com/viponpoint/Home-Detection-Lab">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection   | <a href="https://github.com/viponpoint/Home-Detection-Lab">Detection Lab</a>|
 
 
  
